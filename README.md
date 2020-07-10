@@ -6,10 +6,17 @@
 
 - 🎓 Graduating in 2021
 
-- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/HITESHK75023922?style=social)
-![GitHub followers](https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social)
+- 📫 How to reach me: 
+  
+  📧 **[email](mailto:hiteshkumar_1mv17cs042@sirmvit.edu)**
 
-*Have a* **[sneak peek😜]()** *at some of my projects*
+  💼 **[Linkedin](https://www.linkedin.com/in/heroichitesh/)**
+
+  [![Twitter Follow](https://img.shields.io/twitter/follow/HITESHK75023922?style=social)](https://twitter.com/HITESHK75023922)
+
+  [![GitHub followers](https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social)](https://github.com/HeroicHitesh)
+
+*Have a* **[sneak peek😜](https://github.com/HeroicHitesh/HeroicHitesh/blob/master/PROJECTS.md)** *at some of my projects*
 
 Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/Developer-s-Journey/Opportunities)** built by me!
 <!--
