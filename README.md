@@ -14,10 +14,10 @@
 
 Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/Developer-s-Journey/Opportunities)** built by me!
 
-<a href="https://github.com/Developer-s-Journey/Opportunities">
+<a href="https://github.com/HeroicHitesh/Opportunities">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeroicHitesh&show_icons=true&count_private=true&theme=chartreuse-dark&line_height=20" />
 </a>
-<a href="https://github.com/Developer-s-Journey/Opportunities">
+<a href="https://github.com/HeroicHitesh/Opportunities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroicHitesh&theme=chartreuse-dark&layout=compact" />
 </a>
 
