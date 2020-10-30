@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on DSA 🧩 , Web Development 🕸
 
-- 🌱 I’m currently learning React :electron: , Flutter 📱 , Deep Learning 💻
+- 🌱 I’m currently learning React :electron: and related web technologies
 
 - 🎓 Graduating in 2021
 
