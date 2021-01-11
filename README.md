@@ -6,9 +6,9 @@
 
 - 🎓 Graduating in 2021
 
-- 📫 Contact me via: &nbsp; **[📧 email](mailto:hiteshkumar_1mv17cs042@sirmvit.edu)** &nbsp; &nbsp; **[💼 Linkedin](https://www.linkedin.com/in/heroichitesh/)**
+- 📫 Contact me via: &nbsp; **[📧 email](mailto:email.hiteshkumar@gmail.com)** &nbsp; &nbsp; **[💼 Linkedin](https://www.linkedin.com/in/heroichitesh/)**
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/HITESHK75023922?style=social)](https://twitter.com/HeroicHitesh) &nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social)](https://github.com/HeroicHitesh)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/HeroicHitesh?style=social)](https://twitter.com/HeroicHitesh) &nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social)](https://github.com/HeroicHitesh)
 
 *Have a* **[sneak peek😜](https://github.com/HeroicHitesh/HeroicHitesh/blob/master/PROJECTS.md)** *at some of my projects*
 
