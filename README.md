@@ -12,12 +12,14 @@
 
 *Have a* **[sneak peek😜](https://github.com/HeroicHitesh/HeroicHitesh/blob/master/PROJECTS.md)** *at some of my projects*
 
-Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/Developer-s-Journey/Opportunities)** built by me!
+Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/HeroicHitesh/Opportunities)** built by me!
 
-<a href="https://github.com/HeroicHitesh/Opportunities">
+View my contributions in ***[Skyline View](https://skyline.github.com/heroichitesh/2020)***
+
+<a href="https://skyline.github.com/heroichitesh/2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeroicHitesh&show_icons=true&count_private=true&theme=chartreuse-dark&line_height=20" />
 </a>
-<a href="https://github.com/HeroicHitesh/Opportunities">
+<a href="https://skyline.github.com/heroichitesh/2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroicHitesh&theme=chartreuse-dark&layout=compact" />
 </a>
 
