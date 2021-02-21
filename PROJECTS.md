@@ -11,6 +11,6 @@
 <br><br>
 <sup><strong>More projects in the pipeline till then show some ❤️ by starring 🤩 some of the above repositories!<strong></sup>
 <br>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HITESHK75023922?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HeroicHitesh?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social">
 </p>
