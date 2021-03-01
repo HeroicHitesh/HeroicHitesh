@@ -14,8 +14,6 @@
 
 Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/HeroicHitesh/Opportunities)** built by me!
 
-View my contributions in ***[Skyline View 🏙🌇 ](https://skyline.github.com/heroichitesh/2020)***
-
 <a href="https://skyline.github.com/heroichitesh/2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeroicHitesh&show_icons=true&count_private=true&theme=chartreuse-dark&line_height=20" />
 </a>
@@ -26,4 +24,8 @@ View my contributions in ***[Skyline View 🏙🌇 ](https://skyline.github.com/
 <p align="center"> 
   <br>Visitor count<br>
   <img src="https://profile-counter.glitch.me/HeroicHitesh/count.svg" />
+</p>
+
+<p align="center"> 
+  ***[ 🌇🏙 Skyline View 🏙🌇 ](https://skyline.github.com/heroichitesh/2020)***
 </p>
