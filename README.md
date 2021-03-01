@@ -27,5 +27,5 @@ Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.co
 </p>
 
 <p align="center"> 
-  ***[ 🌇🏙 Skyline View 🏙🌇 ](https://skyline.github.com/heroichitesh/2020)***
+  <a href="https://skyline.github.com/heroichitesh/2020"><b><i>🌇🏙 Skyline View 🏙🌇</b></i></a>
 </p>
