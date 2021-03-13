@@ -15,6 +15,7 @@
 | #️⃣ | Company Name | Assignment | Description | Repo Link |
 |:--------:|---------|-------------|-----------|-----------|
 | 1️⃣ | [Headout Inc.](https://www.headout.com) | [Headout Assignment](https://heroichitesh.github.io/headout_assignment/)| <br> Basic HTML and CSS (Frontend) for a video sharing website (like Youtube, Vimeo etc.) <br><br> | [headout_assignment](https://github.com/HeroicHitesh/headout_assignment) |
+| 2️⃣ | [AlmaBetter](https://www.almabetter.com) | [Marks Manager](https://marks-manager.herokuapp.com/) | <br> A 3 page portal that captures marks of students in one page and displays the leaderboard in another page <br><br> | [AlmaBetter-Internship-Assignment](https://github.com/HeroicHitesh/AlmaBetter-Internship-Assignment) |
 <p align="center">
 <a href="#topAssignment">⬆️</a>
 <br><br>
