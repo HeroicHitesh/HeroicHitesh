@@ -10,7 +10,7 @@
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/HeroicHitesh?style=social)](https://twitter.com/HeroicHitesh) &nbsp;&nbsp;&nbsp; [![GitHub followers](https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social)](https://github.com/HeroicHitesh)
 
-*Have a* **[sneak peek😜](https://github.com/HeroicHitesh/HeroicHitesh/blob/master/PROJECTS.md)** *at some of my projects*
+*Have a* **[sneak peek😜](https://github.com/HeroicHitesh/HeroicHitesh/blob/master/PROJECTS.md)** *at some of my projects and assignments*
 
 Consider giving a ⭐️ for **[ 💼 Opportunities 🇮🇳 ](https://github.com/HeroicHitesh/Opportunities)** built by me!
 
