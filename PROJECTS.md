@@ -16,6 +16,7 @@
 |:--------:|---------|-------------|-----------|-----------|
 | 1️⃣ | [Headout Inc.](https://www.headout.com) | [Headout Assignment](https://heroichitesh.github.io/headout_assignment/)| <br> Basic HTML and CSS (Frontend) for a video sharing website (like Youtube, Vimeo etc.) <br><br> | [headout_assignment](https://github.com/HeroicHitesh/headout_assignment) |
 | 2️⃣ | [AlmaBetter](https://www.almabetter.com) | [Marks Manager](https://marks-manager.herokuapp.com/) | <br> A 3 page portal that captures marks of students in one page and displays the leaderboard in another page <br><br> | [AlmaBetter-Internship-Assignment](https://github.com/HeroicHitesh/AlmaBetter-Internship-Assignment) |
+| 2️⃣ | [FamPay](https://fampay.in) | [Spinner](https://fampay-spinner.herokuapp.com) | <br> A Progressive Web App (PWA) that allows the user to spin by tapping ‘Spin’ and get the reward mentioned on the segment of wheel where it stops <br><br> | [FamPay_Spinner_Assignment](https://github.com/HeroicHitesh/FamPay_Spinner_Assignment) |
 <p align="center">
 <a href="#topAssignment">⬆️</a>
 <br><br>
