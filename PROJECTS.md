@@ -14,8 +14,10 @@
 
 | #️⃣ | Company Name | Assignment | Description | Repo Link |
 |:--------:|---------|-------------|-----------|-----------|
+| 1️⃣ | [Headout Inc.](https://www.headout.com) | [Headout Assignment](https://heroichitesh.github.io/headout_assignment/)| <br> Basic HTML and CSS (Frontend) for a video sharing website (like Youtube, Vimeo etc.) <br><br> | [headout_assignment](https://github.com/HeroicHitesh/headout_assignment) |
 <p align="center">
 <a href="#topAssignment">⬆️</a>
+<br><br>
 <sup><strong>More projects and assignments in the pipeline till then show some ❤️ by starring 🤩 some of the above repositories!<strong></sup>
 <br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HeroicHitesh?style=social">
