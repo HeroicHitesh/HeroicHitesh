@@ -25,6 +25,6 @@
 <br><br>
 <sup><strong>More projects and assignments in the pipeline till then show some ❤️ by starring 🤩 some of the above repositories!<strong></sup>
 <br>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HeroicHitesh?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social">
+<a href="https://twitter.com/HeroicHitesh"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HeroicHitesh?style=social"></a>
+<a href="https://github.com/HeroicHitesh"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HeroicHitesh?label=Follow%20%40HeroicHitesh&style=social"></a>
 </p>
